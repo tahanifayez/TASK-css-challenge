@@ -1,0 +1,25 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+.Font{
+    color:aliceblue;
+    font-size:30px;
+    font-family: 'Great Vibes', cursive;
+    display: flex; flex-direction: column; justify-content: center; align-items: center"
+}
+.text{
+    color:aliceblue;
+    font-size:10px;
+    display: flex; flex-direction: column; justify-content:center; align-items: center"
+
+}
+
+/* .Harry {
+  width: 450px;
+  height: 300px;
+  background-color: rgb(55, 16, 92);
+} */
+/* .img {
+  width: 200px;
+  height: 300px;
+} */

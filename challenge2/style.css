@@ -1,0 +1,32 @@
+body {
+  background-image: url(../assets/pokemon-bg.jpg);
+}
+
+.background {
+  background-color: aliceblue;
+  border-radius: 20%;
+  height: 350px;
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  text-align: center;
+  font-size: 19px;
+}
+
+.main-div {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
